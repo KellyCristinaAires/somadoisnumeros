@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\obj\Debug\netcoreapp3.1\numeroseoperadores.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\obj\Debug\netcoreapp3.1\numeroseoperadores.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\obj\Debug\netcoreapp3.1\numeroseoperadores.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\obj\Debug\netcoreapp3.1\numeroseoperadores.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\bin\Debug\netcoreapp3.1\numeroseoperadores.exe
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\bin\Debug\netcoreapp3.1\numeroseoperadores.deps.json
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\bin\Debug\netcoreapp3.1\numeroseoperadores.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\bin\Debug\netcoreapp3.1\numeroseoperadores.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\bin\Debug\netcoreapp3.1\numeroseoperadores.dll
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\bin\Debug\netcoreapp3.1\numeroseoperadores.pdb
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\obj\Debug\netcoreapp3.1\numeroseoperadores.dll
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\obj\Debug\netcoreapp3.1\numeroseoperadores.pdb
+C:\Users\kelly\Documents\atividadespc1\numeroseoperadores\obj\Debug\netcoreapp3.1\numeroseoperadores.genruntimeconfig.cache
